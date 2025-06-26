@@ -1,0 +1,8 @@
+- [ ] Initialize a disk
+- [ ] Format the disk with blocks and metadata
+- [ ] Write to disk
+- [ ] Read from disk
+- [ ] Delete file on disk
+- [ ] Folders
+- [ ] Subdiretories and nesting
+- [ ] Timestamps
